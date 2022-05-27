@@ -1,5 +1,5 @@
 
-# Using a Python dictionary to act as an adjacency list
+# Using a Python dictionary to act as an adjacency lis
 graph = {
   '1' : ['2','3','4'],
   '3' : ['1', '2','5'],
