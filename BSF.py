@@ -1,5 +1,5 @@
 
-#Create an garph using distionary 
+#Create an garph using distionary  
 graph = {
   '1' : ['2','3','4'],
   '3' : ['1', '2','5'],
