@@ -63,7 +63,7 @@ def get_neighbors(v):
         return Graph_nodes[v]
     else:
         return None
-#for simplicity we ll consider heuristic distances given
+#for simplicity we ll consider heuris tic distances given
 #and this function returns heuristic distance for all nodes
 def heuristic(n):
         H_dist = {
