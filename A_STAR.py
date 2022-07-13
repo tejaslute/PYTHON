@@ -75,7 +75,7 @@ def heuristic(n):
             'G': 0,
         }
         return H_dist[n]
-#Describe your graph here  
+#Describe your graph here   
 Graph_nodes = {
     'A': [('B', 2), ('E', 3)],
     'B': [('D', 1),('G', 9)],
