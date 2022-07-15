@@ -8,7 +8,7 @@ graph = {
   '5' : ['3']
 }
 
-# declare an set which cont ains visited nodes 
+# declare an set whi ch cont ains visited nodes 
 
 visited=set()
 
