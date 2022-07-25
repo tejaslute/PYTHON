@@ -1,5 +1,5 @@
 
-#power function using for loop 
+#power function using for loop
 def raise_to_power(base,power):
     result=1
     for index in range(power):
